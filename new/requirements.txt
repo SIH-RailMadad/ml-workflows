@@ -1,0 +1,2 @@
+Pillow==9.5.0
+langchain_ollama==0.0.1  
